@@ -1,7 +1,7 @@
 # cpp wasm test
 
-`test1`: とりあえずcppでhello worldを返す
-`test2`: OpenGL使ってcanvasに描画
+* `test1`: とりあえずcppでhello worldを返す
+* `test2`: OpenGL使ってcanvasに描画
 
 ## License
 
